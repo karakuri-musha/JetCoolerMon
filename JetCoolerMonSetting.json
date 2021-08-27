@@ -1,0 +1,13 @@
+{
+    "temp_th1"      : "30",
+    "temp_th2"      : "40",
+    "temp_th3"      : "50",
+    "temp_th4"      : "60",
+    "pwm_th1"       : "40",
+    "pwm_th2"       : "90",
+    "pwm_th3"       : "140",
+    "pwm_th4"       : "190",
+    "pwm_over"      : "240",
+    "max_log_cnt"   : "10",
+    "csv_output"    : "1"
+}
