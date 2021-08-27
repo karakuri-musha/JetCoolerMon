@@ -125,7 +125,7 @@ sudo vi /usr/local/bin/JetCooler_mon.sh
 シェルの内容
 ```
 #!/bin/sh
-python3 /opt/JetCoolerMon/JetCoolerMon.py -o output.csv -j JetCoolerMonSetting.json
+python3 /opt/JetCoolerMon/JetCoolerMon/JetCoolerMon.py -o output.csv -j JetCoolerMonSetting.json
 ```
 
 ４．シェルに実行権限を付与します。
